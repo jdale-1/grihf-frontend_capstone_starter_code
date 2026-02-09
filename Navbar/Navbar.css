@@ -23,7 +23,7 @@ nav {
         padding: 8px 0;
         background-color: #fff;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        border-radious: 4px;
+        border-radius: 4px;
     }
 
     /* Styling for the user welcome message */
@@ -116,7 +116,7 @@ nav {
             left: 0;
             width: 100;
             margin: auto;
-            backgound-color: #fff;
+            background-color: #fff;
             flex-direction: column;
             align-items: center;
             padding: 1rem 0;
